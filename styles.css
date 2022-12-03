@@ -329,6 +329,15 @@ input:checked ~ label:not(.steps) span:before, input:checked ~ label:not(.steps)
      width: 834px;
     margin: 0 auto;
   }
+
+  nav li {
+    display: inline-flex;
+  }
+
+  nav {
+    padding-bottom: 20px;
+    padding-top: 20px;
+  }
   
   ul {
         overflow: visible;
